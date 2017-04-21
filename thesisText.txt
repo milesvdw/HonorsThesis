@@ -1,0 +1,20 @@
+\tableofcontents
+\newpage
+
+\section{The first Section}
+Some text in section one.
+
+\subsection{A subheading}
+Some text under the subheading.
+
+\section{Another Section}
+Section text.
+
+\subsection{Our findings}
+Findings summary.
+
+\subsubsection{More information}
+Some more information.
+
+\section{Conclusion}
+Conclusion text.
